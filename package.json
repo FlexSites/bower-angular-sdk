@@ -1,0 +1,19 @@
+{
+  "name": "@flexsites/angular-sdk",
+  "version": "1.0.0",
+  "description": "Angular SDK to interact with FlexSites API",
+  "main": "sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlexSites/bower-angular-sdk.git"
+  },
+  "author": "Seth Tippetts <sethtippetts@gmail.com> (http://sethtippetts.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlexSites/bower-angular-sdk/issues"
+  },
+  "homepage": "https://github.com/FlexSites/bower-angular-sdk#readme"
+}
